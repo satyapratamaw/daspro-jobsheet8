@@ -12,7 +12,7 @@ public class ModifikasiTriangle26 {
                 System.out.print("*");
                 j++;
             }
-            System.out.println();
+            
             i++;
         }
         i = n;
